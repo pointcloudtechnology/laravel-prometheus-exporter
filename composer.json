@@ -1,11 +1,15 @@
 {
-  "name": "superbalist/laravel-prometheus-exporter",
+  "name": "pointcloudtechnology/laravel-prometheus-exporter",
   "description": "A prometheus exporter for Laravel",
   "license": "MIT",
   "authors": [
     {
       "name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
       "email": "info@superbalist.com"
+    },
+    {
+      "name": "Point Cloud Technology",
+      "email": "info@pointcloudtechnology.com"
     }
   ],
   "require": {
