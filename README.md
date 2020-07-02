@@ -4,14 +4,7 @@ A prometheus exporter for Laravel.
 
 **This is a fork of [Superbalist/laravel-prometheus-exporter](https://github.com/Superbalist/laravel-prometheus-exporter) since the original package depends on an abandoned dependency. See https://github.com/Superbalist/laravel-prometheus-exporter/issues/11 .**
 
-[![Author](http://img.shields.io/badge/author-@superbalist-blue.svg?style=flat-square)](https://twitter.com/superbalist)
-[![Build Status](https://img.shields.io/travis/Superbalist/laravel-prometheus-exporter/master.svg?style=flat-square)](https://travis-ci.org/Superbalist/laravel-prometheus-exporter)
-[![StyleCI](https://styleci.io/repos/98516814/shield?branch=master)](https://styleci.io/repos/98516814)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Packagist Version](https://img.shields.io/packagist/v/superbalist/laravel-prometheus-exporter.svg?style=flat-square)](https://packagist.org/packages/superbalist/laravel-prometheus-exporter)
-[![Total Downloads](https://img.shields.io/packagist/dt/superbalist/laravel-prometheus-exporter.svg?style=flat-square)](https://packagist.org/packages/superbalist/laravel-prometheus-exporter)
-
-This package is a wrapper bridging [jimdo/prometheus_client_php](https://github.com/Jimdo/prometheus_client_php) into Laravel.
+This package is a wrapper bridging [endclothing/prometheus_client_php](https://github.com/endclothing/prometheus_client_php) into Laravel.
 
 ## Installation
 
