@@ -2,6 +2,8 @@
 
 A prometheus exporter for Laravel.
 
+**This is a fork of [Superbalist/laravel-prometheus-exporter](https://github.com/Superbalist/laravel-prometheus-exporter) since the original package depends on an abandoned dependency. See https://github.com/Superbalist/laravel-prometheus-exporter/issues/11 .**
+
 [![Author](http://img.shields.io/badge/author-@superbalist-blue.svg?style=flat-square)](https://twitter.com/superbalist)
 [![Build Status](https://img.shields.io/travis/Superbalist/laravel-prometheus-exporter/master.svg?style=flat-square)](https://travis-ci.org/Superbalist/laravel-prometheus-exporter)
 [![StyleCI](https://styleci.io/repos/98516814/shield?branch=master)](https://styleci.io/repos/98516814)
