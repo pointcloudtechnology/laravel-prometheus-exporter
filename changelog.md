@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.0 - 2020-07-02
+
+* Change dependency from abandoned `Jimdo/prometheus_client_php` to `endclothing/prometheus_client_php`
+* Bump required PHP version to at least 7.2
+* Bump dependency versions
+
 ## 1.0.5 - 2020-03-16
 
 * Update call to array_get helper to use the Illuminate\Support\Arr class
