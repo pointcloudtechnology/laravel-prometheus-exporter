@@ -1,6 +1,6 @@
 {
   "name": "pointcloudtechnology/laravel-prometheus-exporter",
-  "description": "A prometheus exporter for Laravel",
+  "description": "A prometheus exporter for Laravel. Forked from Superbalist.",
   "license": "MIT",
   "authors": [
     {
