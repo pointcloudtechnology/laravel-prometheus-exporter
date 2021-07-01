@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.2 - 2021-07-01
+
+* Merge upstream, bump dependencies
+
+## 1.1.1
+
+* Clarify readme
+
 ## 1.1.0 - 2020-07-02
 
 * Change dependency from abandoned `Jimdo/prometheus_client_php` to `endclothing/prometheus_client_php`
