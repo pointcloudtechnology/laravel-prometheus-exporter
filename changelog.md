@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.0 - 2023-02-07
+
+* Bump dependencies
+* Add support for newer Laravel versions
+* Switch to `promphp/prometheus_client_php`
+* Only set up fully in register() call, not in boot()
+
 ## 1.1.3 - 2021-07-01
 
 * Bump dev-dependencies
