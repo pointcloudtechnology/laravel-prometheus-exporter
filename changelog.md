@@ -1,6 +1,10 @@
 # Changelog
 
-## 2.0 - 2024-04-22
+# 2.0.1 - 2025-02-07
+
+* Add support for Laravel 11
+
+## 2.0.0 - 2024-04-22
 
 * Add support for Laravel 10
 * Drop support for Laravel <8
